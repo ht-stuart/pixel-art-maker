@@ -1,12 +1,3 @@
-/*
-//Colorful Wave
-const colorPicker = document.getElementById('colorPicker');
-const heading = document.getElementById('headingContainer');
-let randColor = Math.floor(Math.random() * 255);
-headingContainer.addEventListener('mousemove', function (e) {
-    heading.style.color = "rgb("+e.offsetX+","+e.offsetY+", 40)"
-});
-*/
 function makeTable() {
 
     //Table/Grid + main variables
